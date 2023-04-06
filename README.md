@@ -140,8 +140,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Beline Mugisha - [Github](https://github.com/Mugisha-Beline) / [Twitter](https://twitter.com/alexa_orrico)  
-Tibout Batale - [Github](https://github.com/Freedisch) / [Twitter](https://twitter.com/earthtojhuang)
+Beline Mugisha - [Github](https://github.com/Mugisha-Beline)  
+Tibout Batale - [Github](https://github.com/Freedisch)
 
 ## License
 Public Domain. No copy write protection. 
